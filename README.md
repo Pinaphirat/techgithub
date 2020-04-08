@@ -16,10 +16,12 @@
 
 [สมัคร Account Github](https://drive.google.com/open?id=1Je-J5_yF1Pe_D-vh9RYHVW3fiS5AtJAP)
 
-คำอธิบาย: นี่คือ Link กชการสมัคร Github
+คำอธิบาย: นี่คือ Link การสมัคร Github
 
 ------------
 วิธีใส่รูป
 -----------
 
-![Animation](
+![Animation](https://github.com/peera123/techgithub/blob/master/oled_count.jpg?raw=true)
+
+คำอธิบาย: นี่คือวิธีการใส่รูป
