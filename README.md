@@ -18,9 +18,18 @@
 คำอธิบาย: นี่คือ Link การสมัคร Github
 
 ------------
+วิธี link ไปยังหน้าเพจอื่น
+
+[work1](/project/work1.md)
+[work2](/project/work2.md)
+[work3](/project/work3.md)
+
+-------------
 วิธีใส่รูป
 
 
 ![Animation](https://github.com/peera123/techgithub/blob/master/oled_count.jpg?raw=true)
 
 คำอธิบาย: นี่คือวิธีการใส่รูป
+
+-------------
