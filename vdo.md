@@ -1,0 +1,4 @@
+- [สมัคร Account Github](https://drive.google.com/open?id=1Je-J5_yF1Pe_D-vh9RYHVW3fiS5AtJAP)
+- [สร้าง Repository](https://drive.google.com/open?id=1YLJ1KgkQStapruRYAv2UytKagoo7aJNJ)
+- [สร้าง Github Page](https://drive.google.com/open?id=1l1RVvhEmIawDg9Z0tUwfdbRUN10ZNadt)
+- [เปลี่ยน Theme](https://drive.google.com/open?id=1Fn1jDPjBu99B7_5QvG80EqpxpjCSg_NP)
