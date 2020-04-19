@@ -14,7 +14,7 @@
 
 [การทดลองที่3](https://drive.google.com/file/d/1O0miDmbNtajx1Vu5rkiibomT5SAGajBU/view?usp=sharing)
 
-[การทดลองที่4](https://drive.google.com/drive/folders/1keKH5W_XdV9FNW3RhBzokyA48eEkaTHC?usp=sharing)
+[การทดลองที่4](https://drive.google.com/file/d/1PwChW9pFs9--t7L2T7hrL4gG-1glrOAu/view?usp=sharing)
 
 ------------------------
 
