@@ -1,16 +1,14 @@
-# นี่คือหัวเรื่อง
-### ใส่ชาร์ปหลายๆตัว มันจะเล็กลงนะ ใส่ได้มากสุดถึง 6 ตัว
+# Microcontroller 
+### lab microcontroller
+-------------------------
 
+Lab
+- การทดลองที่1 : การต่อวงจรและติดตั้งโปรแกรมบน Microcontroller ESP32 
+- การทดลองที่2 : การแจ้งเตือนข้อมูลแสงผ่านแอพพลิเคชั่น Line
+- การทดลองที่3 : การเชื่อมต่อกันระหว่าง Microcontroller
+- การทดลองที่4 : การนำ Microcontroller มาประยุกต์ใช้งาน
 
-
------------
-วิธีใส่ Bullet
-
-- Bullet ที่1
-- Bullet ที่2
-- Bullet ที่3
-
-------------
+------------------------
 วิธีใส่ Link
 
 [สมัคร Account Github](https://drive.google.com/open?id=1Je-J5_yF1Pe_D-vh9RYHVW3fiS5AtJAP)
