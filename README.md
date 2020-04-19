@@ -1,35 +1,15 @@
 # Microcontroller 
-### lab microcontroller
+## lab microcontroller
 -------------------------
-
-Lab
-- การทดลองที่1 : การต่อวงจรและติดตั้งโปรแกรมบน Microcontroller ESP32 
-- การทดลองที่2 : การแจ้งเตือนข้อมูลแสงผ่านแอพพลิเคชั่น Line
-- การทดลองที่3 : การเชื่อมต่อกันระหว่าง Microcontroller
-- การทดลองที่4 : การนำ Microcontroller มาประยุกต์ใช้งาน
-
+- [การทดลองที่1 : การต่อวงจรและติดตั้งโปรแกรมบน Microcontroller ESP32] ()
+- [การทดลองที่2 : การแจ้งเตือนข้อมูลแสงผ่านแอพพลิเคชั่น Line] ()
+- [การทดลองที่3 : การเชื่อมต่อกันระหว่าง Microcontroller] ()
+- [การทดลองที่4 : การนำ Microcontroller มาประยุกต์ใช้งาน] (https://drive.google.com/drive/folders/1keKH5W_XdV9FNW3RhBzokyA48eEkaTHC?usp=sharing)
 ------------------------
-วิธีใส่ Link
+การสมัคร Account Github
 
-[สมัคร Account Github](https://drive.google.com/open?id=1Je-J5_yF1Pe_D-vh9RYHVW3fiS5AtJAP)
-
-คำอธิบาย: นี่คือ Link การสมัคร Github
-
-------------
-วิธี link ไปยังหน้าเพจอื่น
-
-[work1](/project/work1.md)
-
-[work2](/project/work2.md)
-
-[work3](/project/work3.md)
+[สมัคร Account Githu](https://drive.google.com/open?id=1Je-J5_yF1Pe_D-vh9RYHVW3fiS5AtJAP)
 
 -------------
-วิธีใส่รูป
-
-
-![Animation](https://github.com/peera123/techgithub/blob/master/oled_count.jpg?raw=true)
-
-คำอธิบาย: นี่คือวิธีการใส่รูป
-
--------------
+ตัวอย่าง Microcontroller ESP32
+![Microcontroller]()
