@@ -1,6 +1,6 @@
 # Microcontroller 
 ## lab microcontroller
--------------------------
+
 - การทดลองที่1 : การต่อวงจรและติดตั้งโปรแกรมบน Microcontroller ESP32 
 - การทดลองที่2 : การแจ้งเตือนข้อมูลแสงผ่านแอพพลิเคชั่น Line
 - การทดลองที่3 : การเชื่อมต่อกันระหว่าง Microcontroller
@@ -17,7 +17,6 @@
 [การทดลองที่4](https://drive.google.com/drive/folders/1keKH5W_XdV9FNW3RhBzokyA48eEkaTHC?usp=sharing)
 
 ------------------------
-การสมัคร Github 
 
 [วิธีสมัคร Account github](https://www.youtube.com/watch?v=60Hl0eirJIk&feature=youtu.be)
 -------------------------
